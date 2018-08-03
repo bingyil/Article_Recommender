@@ -1,6 +1,6 @@
 # Article_Recommender
 
-Author: Bingyi Li
+Author: Bingyi Li<br/>
 Instructor: Terence Parr
 
 ## Goal
