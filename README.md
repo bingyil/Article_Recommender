@@ -1,5 +1,7 @@
 # Article_Recommender
 
+Author: Bingyi Li
+Instructor: Terence Parr
 
 ## Goal
 Make a simple article recommendation engine using a semi-recent advance in natural language processing called [word2vec](http://arxiv.org/pdf/1301.3781.pdf) (or just *word vectors*). In particular, we're going to use a "database" from [Stanford's GloVe project](https://nlp.stanford.edu/projects/glove/) trained on a dump of Wikipedia. 
